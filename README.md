@@ -1,3 +1,5 @@
+# This isn't my work. This is only a replication of this video (https://youtu.be/LN668OAUrK4?list=WL). All the credits go to @abuanwar072!
+
 # plant_app
 
 A new Flutter project.
